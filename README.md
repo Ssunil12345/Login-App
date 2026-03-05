@@ -1,3 +1,4 @@
+Download the zip file
 🚀 Flutter Firebase Google Login App
 A clean, Material 3 Flutter application featuring Google Sign-In integration with Firebase Authentication. This app includes a secure Auth Gate, a beautiful Gradient Login Page, and a Dashboard displaying user profile information.
 
